@@ -2,7 +2,7 @@ from core.api_handler import KiwoomREST
 
 def main():
     print("="*30)
-    print("   Quantum (REST API Ver.)   ")
+    print("   Quantum (REST API Ver.)")
     print("="*30)
 
     # 브로커 객체 생성 (자동으로 토큰 발급 시도)
